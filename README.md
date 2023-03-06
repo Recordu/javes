@@ -1,6 +1,6 @@
 
 ## What is Javes?
-Javes is a telgram userbot that running in python3 + Telethon ,  Born from <a href="https://github.com/AvinashReddy3108/PaperplaneExtended">PaperplaneExtended</a> 
+Javes is a telgram userbot that running in python3 + Telethon ,  Born from <a href="https://github.com/Recordu/PaperplaneExtended">PaperplaneExtended</a> 
 
 
 ## Tap this img to deploy javes in heroku
